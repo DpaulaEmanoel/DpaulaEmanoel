@@ -22,14 +22,14 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=py,pycharm,postman)]()
 
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
+_
 
 
 <h3 align="left">Entre em contato comigo:</h3>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contatomanualdofront@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emanoelpb/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:fbecont@gmail.com)
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
